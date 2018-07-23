@@ -1,0 +1,4 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Main Problem and Previous Literature}{3}{0}{1}
+\beamer@sectionintoc {2}{Data, Variables and Tools}{5}{0}{2}
+\beamer@sectionintoc {3}{Some Results and Plans}{9}{0}{3}

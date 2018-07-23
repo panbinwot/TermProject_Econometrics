@@ -1,0 +1,118 @@
+\begin{thebibliography}{10}
+
+\bibitem{Mark1996An}
+Mark~S. Beasley.
+\newblock An empirical analysis of the relation between the board of director
+  composition and financial statement fraud.
+\newblock {\em The Accounting Review}, 71(4):443--465, 1996.
+
+\bibitem{Bell2000A}
+Timothy~B. Bell and Joseph~V. Carcello.
+\newblock A decision aid for assessing the likelihood of fraudulent financial
+  reporting.
+\newblock {\em Auditing A Journal of Practice}, 19(1):169--184, 2000.
+
+\bibitem{Beneish1997Detecting}
+Messod~D. Beneish.
+\newblock Detecting gaap violation: implications for assessing earnings
+  management among firms with extreme financial performance.
+\newblock {\em Journal of Accounting and Public Policy}, 16(16):271--309, 1997.
+
+\bibitem{Breiman2001Random}
+Leo Breiman.
+\newblock Random forests.
+\newblock {\em Machine Learning}, 45(1):5--32, 2001.
+
+\bibitem{Chawla2002SMOTE}
+Nitesh~V. Chawla, Kevin~W. Bowyer, Lawrence~O. Hall, and W.~Philip Kegelmeyer.
+\newblock Smote: synthetic minority over-sampling technique.
+\newblock {\em Journal of Artificial Intelligence Research}, 16(1):321--357,
+  2002.
+
+\bibitem{Dechow2006The}
+Patricia~M. Dechow, S.~P. Kothari, and Ross~L. Watts.
+\newblock The relation between earnings and cash flows.
+\newblock {\em Social Science Electronic Publishing}, 25(2):133--168, 2006.
+
+\bibitem{Patricia1995Detecting}
+Patricia~M. Dechow, Richard~G. Sloan, and Amy~P. Sweeney.
+\newblock Detecting earnings management.
+\newblock {\em The Accounting Review}, 70(2):193--225, 1995.
+
+\bibitem{Dechow2011Predicting}
+Patricia~M. Dechow, G.~E. Weili, Chad~R. Larson, and Richard~G. Sloan.
+\newblock Predicting material accounting misstatements.
+\newblock {\em Contemporary Accounting Research}, 28(1):17–82, 2011.
+
+\bibitem{DechowP1996Causes}
+DechowP, SloanR, and SweeneyA.
+\newblock Causes and consequences of earnings manipulation: An analy.
+\newblock 1996.
+
+\bibitem{Ettredge2011Is}
+Michael Ettredge, Lili Sun, Picheng Lee, and Asokan Anandarajan.
+\newblock Is earnings fraud associated with high deferred tax and/or book minus
+  tax levels?
+\newblock {\em Social Science Electronic Publishing}, 27(1):1--33, 2011.
+
+\bibitem{Fawcett2006ROC}
+Tom Fawcett.
+\newblock Roc graphs with instance-varying costs.
+\newblock {\em Pattern Recognition Letters}, 27(8):882--891, 2006.
+
+\bibitem{Felo2007Using}
+Andrew~J Felo.
+\newblock Using nonfinancial measures to assess fraud risk.
+\newblock 2007.
+
+\bibitem{Goodenough1974Radiographic}
+D.~J. Goodenough, K~Rossmann, and L.~B. Lusted.
+\newblock Radiographic applications of receiver operating characteristic (roc)
+  curves.
+\newblock {\em Radiology}, 110(1):89, 1974.
+
+\bibitem{Japkowicz2000The}
+N.~Japkowicz.
+\newblock The class imbalance problem: Significance and strategies, proceedings
+  of the second international conference on artificial.
+\newblock 2000.
+
+\bibitem{Breiman1984Classification}
+Breiman LI, J.H. Friedman, RA~Olshen, and C.J. Stone.
+\newblock Classification and regression trees (cart).
+\newblock {\em Encyclopedia of Ecology}, 40(3):582--588, 1984.
+
+\bibitem{Perols2015Finding}
+Johan Perols, Robert~M Bowen, Carsten Zimmermann, and Basamba Samba.
+\newblock Finding needles in a haystack: Using data analytics to improve fraud
+  prediction.
+\newblock {\em Social Science Electronic Publishing}, 2015.
+
+\bibitem{Summers1998Fraudulently}
+Scott~L. Summers and John~T. Sweeney.
+\newblock Fraudulently misstated financial statements and insider trading: An
+  empirical analysis.
+\newblock {\em Accounting Review}, 73(1):131--146, 1998.
+
+\bibitem{Varian2014Big}
+Hal~R Varian.
+\newblock Big data: New tricks for econometrics.
+\newblock {\em The Journal of Economic Perspectives}, 28(2):3--27, 2014.
+
+\bibitem{Whiting2012Machine}
+David~G Whiting, James~V Hansen, James~B Mcdonald, Conan Albrecht, and W.~Steve
+  Albrecht.
+\newblock Machine learning methods for detecting patterns of management fraud.
+\newblock {\em Computational Intelligence}, 28(4):505--527, 2012.
+
+\bibitem{周晓苏2011基于盈余管理动机的财务重述研究}
+周晓苏 and 周琦.
+\newblock 基于盈余管理动机的财务重述研究.
+\newblock {\em 当代财经}, (2):109--117, 2011.
+
+\bibitem{孙欣然2015盈余管理、分析师盈余预测与重大错报风险}
+孙欣然.
+\newblock {\em 盈余管理、分析师盈余预测与重大错报风险}.
+\newblock PhD thesis, 吉林大学, 2015.
+
+\end{thebibliography}

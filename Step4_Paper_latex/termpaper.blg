@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: termpaper.aux
+The style file: plain.bst
+Database file #1: termpaper.bib
+Warning--I didn't find a database entry for ""
+Warning--empty journal in DechowP1996Causes
+Warning--empty journal in Felo2007Using
+Warning--empty journal in Japkowicz2000The
+Warning--there's a number but no volume in 周晓苏2011基于盈余管理动机的财务重述研究
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            636 strings with 7513 characters,
+and the built_in function-call counts, 6497 in all, are:
+= -- 619
+> -- 310
+< -- 0
++ -- 127
+- -- 102
+* -- 496
+:= -- 1138
+add.period$ -- 63
+call.type$ -- 21
+change.case$ -- 113
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 225
+empty$ -- 501
+format.name$ -- 102
+if$ -- 1320
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 20
+newline$ -- 108
+num.names$ -- 42
+pop$ -- 88
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 146
+stack$ -- 0
+substring$ -- 403
+swap$ -- 18
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 4
+while$ -- 58
+width$ -- 23
+write$ -- 226
+(There were 5 warnings)
